@@ -1,0 +1,366 @@
+{
+  "header": {
+    "logo": {
+      "image": {
+        "url": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+        "alt": "logo1"
+      },
+      "link": {
+        "url": "https://www.google.com"
+      }
+    },
+    "menu": [
+      {
+        "url": "https://www.google.com",
+        "text": "Home"
+      },
+      {
+        "url": "https://www.google.com",
+        "text": "About"
+      },
+      {
+        "url": "https://www.google.com",
+        "text": "Services",
+        "subitems": [
+          {
+            "url": "https://www.google.com",
+            "text": "Subitem 1"
+          },
+          {
+            "url": "https://www.google.com",
+            "text": "Subitem 2"
+          }
+        ]
+      },
+      {
+        "url": "https://www.google.com",
+        "text": "Sector",
+        "subitems": [
+          {
+            "url": "https://www.google.com",
+            "text": "Subitem 1"
+          },
+          {
+            "url": "https://www.google.com",
+            "text": "Subitem 2"
+          }
+        ]
+      },
+      {
+        "url": "https://www.google.com",
+        "text": "Insights"
+      },
+      {
+        "url": "https://www.google.com",
+        "text": "Global",
+        "subitems": [
+          {
+            "url": "https://www.google.com",
+            "text": "Subitem 1"
+          },
+          {
+            "url": "https://www.google.com",
+            "text": "Subitem 2"
+          },
+          {
+            "url": "https://www.google.com",
+            "text": "Subitem 3"
+          }
+        ]
+      },
+      {
+        "url": "https://www.google.com",
+        "text": "Contact"
+      }
+    ]
+  },
+  "footer": {
+    "logo": {
+      "image": {
+        "url": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+        "alt": "logo"
+      },
+      "link": {
+        "url": "https://www.google.com"
+      },
+      "below-section": {
+        "line1": "line1",
+        "line2": "line2",
+        "line3": "line3"
+      }
+    },
+    "company": {
+      "title": "Company",
+      "menu": [
+        {
+          "title": "Home",
+          "link": "https://www.google.com"
+        },
+        {
+          "title": "About",
+          "link": "https://www.google.com"
+        },
+        {
+          "title": "Services",
+          "link": "https://www.google.com"
+        },
+        {
+          "title": "Sector",
+          "link": "https://www.google.com"
+        },
+        {
+          "title": "Insights",
+          "link": "https://www.google.com"
+        },
+        {
+          "title": "Global",
+          "link": "https://www.google.com"
+        },
+        {
+          "title": "Contact",
+          "link": "https://www.google.com"
+        }
+      ]
+    },
+    "services": {
+      "title": "Services",
+      "menu": [
+        {
+          "title": "Service 1",
+          "link": "https://www.google.com"
+        },
+        {
+          "title": "Service 2",
+          "link": "https://www.google.com"
+        },
+        {
+          "title": "Service 3",
+          "link": "https://www.google.com"
+        },
+        {
+          "title": "Service 4",
+          "link": "https://www.google.com"
+        }
+      ]
+    },
+    "sector": {
+      "title": "Sector",
+      "menu": [
+        {
+          "title": "Sector 1",
+          "link": "https://www.google.com"
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contact",
+      "linkedin": {
+        "url": "https://www.linkedin.com",
+        "icon": "linkedin"
+      },
+      "facebook": {
+        "url": "https://www.facebook.com",
+        "icon": "facebook"
+      },
+      "twitter": {
+        "url": "https://www.twitter.com",
+        "icon": "twitter"
+      },
+      "instagram": {
+        "url": "https://www.instagram.com",
+        "icon": "instagram"
+      }
+    }
+  },
+  "home": {
+    "section1": {
+      "slider1": {
+        "image": {
+          "url": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+          "alt": "slider1"
+        },
+        "title": "slider1",
+        "description": "slider1",
+        "button": {
+          "text": "button1",
+          "link": "https://www.google.com"
+        }
+      },
+      "slider2": {
+        "image": {
+          "url": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+          "alt": "slider2"
+        },
+        "title": "slider2",
+        "description": "slider2"
+      },
+      "slider3": {
+        "image": {
+          "url": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+          "alt": "slider3"
+        },
+        "title": "slider3",
+        "description": "slider3"
+      }
+    },
+    "section2": {
+      "part1": {
+        "image1": {
+          "url": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+          "alt": "image1"
+        },
+        "image2": {
+          "url": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+          "alt": "image2"
+        },
+        "image3": {
+          "url": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+          "alt": "image3"
+        },
+        "image4": {
+          "url": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+          "alt": "image4"
+        }
+      },
+      "part2": {
+        "title": "part2",
+        "description": "part2",
+        "button": {
+          "text": "button2",
+          "link": "https://www.google.com"
+        }
+      }
+    },
+    "section3": {
+      "slider1": {
+        "image": {
+          "url": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+          "alt": "slider1"
+        },
+        "link": {
+          "url": "https://www.google.com",
+          "text": "link1"
+        }
+      },
+      "slider2": {
+        "image": {
+          "url": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+          "alt": "slider2"
+        },
+        "link": {
+          "url": "https://www.google.com",
+          "text": "link2"
+        }
+      },
+      "slider3": {
+        "image": {
+          "url": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+          "alt": "slider3"
+        },
+        "link": {
+          "url": "https://www.google.com",
+          "text": "link3"
+        }
+      }
+    },
+    "section4": {
+      "part1": {
+        "image": {
+          "url": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+          "alt": "image1"
+        },
+        "title": "part1",
+        "description": "part1"
+      },
+      "part2": {
+        "video": {
+          "url": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+          "alt": "video"
+        }
+      }
+    },
+    "section5": {
+      "title": "section5",
+      "sliders": [
+        {
+          "image": {
+            "url": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+            "alt": "slider1"
+          },
+          "title": "slider1",
+          "description": "slider1",
+          "link": "https://www.google.com"
+        },
+        {
+          "image": {
+            "url": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+            "alt": "slider2"
+          },
+          "title": "slider2",
+          "description": "slider2",
+          "link": "https://www.google.com"
+        }
+      ]
+    },
+    "section6": {
+      "part1": {
+        "heading": "heading1",
+        "description": "description1",
+        "button1": {
+          "text": "button1",
+          "link": "https://www.google.com"
+        },
+        "button2": {
+          "text": "button2",
+          "link": "https://www.google.com"
+        }
+      },
+      "part2": {
+        "image": {
+          "url": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+          "alt": "image1"
+        }
+      }
+    },
+    "section7": {
+      "bg-image": {
+        "url": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+        "alt": "bg-image"
+      },
+      "title": "section7",
+      "description": "section7",
+      "button": {
+        "text": "button1",
+        "link": "https://www.google.com"
+      }
+    },
+    "section8": {
+      "part1": {
+        "title": "testtttt"
+      },
+      "part2": {
+        "form": {
+          "name": {
+            "label": "name",
+            "type": "text",
+            "placeholder": "name"
+          },
+          "email": {
+            "label": "email",
+            "type": "email",
+            "placeholder": "email"
+          },
+          "message": {
+            "label": "message",
+            "type": "textarea",
+            "placeholder": "message"
+          },
+          "button": {
+            "text": "submit",
+            "link": "https://www.google.com"
+          }
+        }
+      }
+    }
+  }
+}
